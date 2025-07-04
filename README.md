@@ -59,7 +59,7 @@ EduBot uses natural language processing (NLP) and machine learning to provide re
 
 ## 👥 Contributors
 
-- [Wubitcode](https://github.com/Wubitcode)  
+- [@Wubitcode](https://github.com/Wubitcode)  
 - [@edu-bot-dev](https://github.com/edu-bot-dev)
 
 ---
